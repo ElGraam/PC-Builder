@@ -1,4 +1,4 @@
-# [PC Builder](https://luxgram.github.io/PC-Builder/)
+# [PC Builder](https://elgraam.github.io/PC-Builder/)
 
 PC Builder is a simple web application that allows users to build and customize their own PC configurations. This project uses HTML, CSS, and JavaScript, along with Bootstrap for styling and FontAwesome for icons.
 
